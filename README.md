@@ -1,2 +1,2 @@
-# iith-hyd-project
+# abhi-iit-project
 tech project @ iit hyd
